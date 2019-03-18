@@ -34,7 +34,7 @@
     "psr-4": {
       "Test\\": "tests/",
       "Tokenio\\": "lib/",
-      "Google\\": "lib/Proto/Google",
+      "Google\\Api\\": "lib/Rpc/Google/Api",
       "GPBMetadata\\": "lib/Proto/GPBMetadata",
       "Io\\": "lib/Proto/Io/"
     }
